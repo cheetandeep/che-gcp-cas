@@ -9,6 +9,13 @@ It will ensure certificates are valid and up to date, and attempt to renew certi
 
 It is loosely based upon the work of kube-lego and has borrowed some wisdom from other similar projects such as kube-cert-manager.
 
+This repository hosts code and material which based on
+
+1. https://cert-manager.io/docs/
+2. https://github.com/jetstack/google-cas-issuer
+
+
+
 ## Concepts
 
 ### Issuer 
